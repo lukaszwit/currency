@@ -4,6 +4,9 @@ namespace Currency;
 
 class AbstractCurrency extends \SplString implements \JsonSerializable
 {
+    /**
+     * @param null $value Amount as a string in given currency
+     */
     public function __construct($value = null)
     {
         if (null !== $value) {
@@ -11,6 +14,9 @@ class AbstractCurrency extends \SplString implements \JsonSerializable
         }
     }
 
+    /**
+     * @return array|mixed
+     */
     public function jsonSerialize()
     {
         $jsonVars = ['value' => /*self::__default*/ (string) $this];
