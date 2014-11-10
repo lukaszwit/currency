@@ -3,7 +3,7 @@
     "description": "Currency handling with float operations safe",
     "minimum-stability": "stable",
     "license": "MIT",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "library",
     "authors": [
         {
@@ -11,13 +11,13 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": "~5.4"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.3"
     },
     "autoload": {
-        "psr-0": { "Currency\\": "src/" }
+        "psr-4": { "Currency\\": "src/Currency" }
 
     }
 }
