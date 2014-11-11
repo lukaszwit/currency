@@ -9,8 +9,6 @@
 namespace Currency;
 
 
-use Currency\JsonSerializeTrait;
-
 class Usd extends \Currency\AbstractCurrency
 {
     //use JsonSerializeTrait;
