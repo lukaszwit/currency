@@ -13,4 +13,4 @@ $eur = 10; // but this emits UnexpectedValueException
 
 ```
 
-see more in examples.
+see more examples in examples directory.
