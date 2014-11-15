@@ -1,5 +1,6 @@
 # Currency
 
+[![Latest Stable Version](https://poser.pugx.org/lukaszwit/currency/v/stable.png)](https://packagist.org/packages/lukaszwit/currency)
 [![Latest Version](https://img.shields.io/github/release/lukaszwit/currency.svg?style=flat-square)](https://github.com/lukaszwit/currency/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/lukaszwit/currency/master.svg?style=flat-square)](https://travis-ci.org/lukaszwit/currency)
