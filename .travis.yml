@@ -13,7 +13,6 @@ before_script:
 script:
   - phpunit --coverage-text --coverage-clover=coverage.clover
 
-
 after_script:
   - php vendor/bin/coveralls -v --clover coverage.clover
   - wget https://scrutinizer-ci.com/ocular.phar
