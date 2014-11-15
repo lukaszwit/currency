@@ -2,7 +2,7 @@
 
 namespace Currency;
 
-class AbstractCurrency extends \SplString implements \JsonSerializable
+abstract class AbstractCurrency extends \SplString implements \JsonSerializable
 {
     /**
      * @param null $value Amount as a string in given currency
