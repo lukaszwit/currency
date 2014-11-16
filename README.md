@@ -5,7 +5,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/lukaszwit/currency/master.svg?style=flat-square)](https://travis-ci.org/lukaszwit/currency)
 [![Coverage Status](https://img.shields.io/coveralls/lukaszwit/currency.svg?style=flat-square)](https://coveralls.io/r/lukaszwit/currency)
-[![Code Coverage](https://scrutinizer-ci.com/g/lukaszwit/currency/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lukaszwit/currency/?branch=master)
+[![Code Coverage](hhttp://img.shields.io/scrutinizer/coverage/g/lukaszwit/currency.svg?style=flat-square)](https://scrutinizer-ci.com/g/lukaszwit/currency/?branch=master)
 [![Quality Score](https://img.shields.io/scrutinizer/g/lukaszwit/currency.svg?style=flat-square)](https://scrutinizer-ci.com/g/lukaszwit/currency)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lukaszwit/currency/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lukaszwit/currency/?branch=master)
 
