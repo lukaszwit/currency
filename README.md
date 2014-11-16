@@ -11,11 +11,13 @@
 Currency package introduces strictly typed and precision safe containers to work with currencies. 
 Currency keeps internally amount as string (the only safe representation of floating point number in PHP).
 It ensures that once any amount in given currency is defined you cannot change it's type and you can type hint your methods to use nay currency or one exact currency.
-Internally this lib uses SplType extension and SplString class. Keeping amounts in string prevents from floats problems and lets you use high precision libraries like bcMath to process arithmetic operations.  
+Internally this lib uses SplType extension and SplString class. Keeping amounts in string prevents from floats problems and lets you use high precision libraries like bcMath to process arithmetic operations.
 
 See how floats work in PHP - http://php.net/manual/en/language.types.float.php
 
 See what happen when you relies on float precision - http://stackoverflow.com/questions/3726721/php-math-precision
+
+This class also supports well-known cryptocurrencies listed in wikipedia - http://en.wikipedia.org/wiki/Cryptocurrency#List_of_cryptocurrencies
 
 ## Install
 
