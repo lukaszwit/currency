@@ -17,7 +17,7 @@ See how floats work in PHP - http://php.net/manual/en/language.types.float.php
 
 See what happen when you relies on float precision - http://stackoverflow.com/questions/3726721/php-math-precision
 
-This class also supports well-known cryptocurrencies listed in wikipedia - http://en.wikipedia.org/wiki/Cryptocurrency#List_of_cryptocurrencies
+This package also supports well-known cryptocurrencies listed in wikipedia - http://en.wikipedia.org/wiki/Cryptocurrency#List_of_cryptocurrencies
 
 ## Install
 
