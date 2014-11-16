@@ -3,7 +3,6 @@
     "description": "Currency handling with float operations safe",
     "minimum-stability": "stable",
     "license": "MIT",
-    "version": "0.1.1",
     "type": "library",
     "authors": [
         {
