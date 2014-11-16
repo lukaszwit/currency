@@ -2,6 +2,10 @@
 
 namespace Currency;
 
+/**
+ * Class AbstractCurrency
+ * @package Currency
+ */
 abstract class AbstractCurrency extends \SplString implements \JsonSerializable
 {
     /**
