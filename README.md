@@ -46,7 +46,28 @@ $eur = 10; // but this emits UnexpectedValueException
 
 ```
 
-see more examples in examples directory.
+Type hinting
+
+```php
+<?php
+use Currency\Usd;
+use Currency\AbstractCurrency as Currency;
+
+class Example
+{
+    public function workWithCurrency(Currency $c)
+    {
+
+    }
+
+    public function workOnlyWithUsd(Usd $usd)
+    {
+
+    }
+}
+```
+
+see more examples in examples directory - https://github.com/lukaszwit/currency/tree/master/examples.
 
 ## Testing
 
