@@ -88,3 +88,7 @@ Please see [CONTRIBUTING](https://github.com/lukaszwit/currency/blob/master/CONT
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lukaszwit/currency/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
